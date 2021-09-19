@@ -31,7 +31,7 @@
   - [qkrtkdwns3410](https://github.com/qkrtkdwns3410) - **Sangjun Park** 
   - [yesolje](https://github.com/yesolje) - **Yesol Je** 
   - [seojung](https://github.com/seojung) - **Seojung Hwang** 
-  - [	jihye-94](https://github.com/	jihye-94) - **Jihye Shin** 
+  - [jihye-94](https://github.com/jihye-94) - **Jihye Shin** 
   - [joumji](https://github.com/joumji) - **Umji Jo** 
 See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
 who participated in this project.
