@@ -1,4 +1,4 @@
-# Repository Quick Start template
+# BITCAMP 2nd_Project
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
@@ -11,7 +11,7 @@
 -->
 ## About RepositoryTemplate
 <!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
+*OKKY 사이트의 클론코딩* 및 *채팅기능 및 UI 전반사항 개선*을 위한 프로젝트입니다.
 
 ## Overview
 <!-- Write Overview about this project -->
@@ -23,40 +23,16 @@ This project's purpose is to create a make Repository with a collection of defau
 - Contribute Template
 - Pull Request Build Test(With Github Actions)
 
-## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
-### Installing
-<!-- A step by step series of examples that tell you how to get a development 
-env running
-
-Say what the step will be
-
-    Give the example
-
-And repeat
-
-    until finished
--->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
-<!--
 ## Deployment
  Add additional notes about how to deploy this on a live system
  -->
-## Contributing
-<!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
-## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
-
+ 
+## Teammates
+  - [qkrtkdwns3410](https://github.com/qkrtkdwns3410) - **Sangjun Park** 
+  - [yesolje](https://github.com/yesolje) - **Yesol Je** 
+  - [seojung](https://github.com/seojung) - **Seojung Hwang** 
+  - [	jihye-94](https://github.com/	jihye-94) - **Jihye Shin** 
+  - [joumji](https://github.com/joumji) - **Umji Jo** 
 See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
 who participated in this project.
 <!--
