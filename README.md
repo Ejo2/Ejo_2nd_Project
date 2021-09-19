@@ -33,8 +33,7 @@
   - [seojung](https://github.com/seojung) - **Seojung Hwang** 
   - [jihye-94](https://github.com/jihye-94) - **Jihye Shin** 
   - [joumji](https://github.com/joumji) - **Umji Jo** 
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
-who participated in this project.
+  - 
 <!--
 ## Used or Referenced Projects
  - [referenced Project](project link) - **LICENSE** - little-bit introduce
