@@ -33,7 +33,6 @@
   - [seojung](https://github.com/seojung) - **Seojung Hwang** 
   - [jihye-94](https://github.com/jihye-94) - **Jihye Shin** 
   - [joumji](https://github.com/joumji) - **Umji Jo** 
-  - 
 <!--
 ## Used or Referenced Projects
  - [referenced Project](project link) - **LICENSE** - little-bit introduce
